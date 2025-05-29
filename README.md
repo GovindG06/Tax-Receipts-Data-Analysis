@@ -27,17 +27,15 @@ This project involves data cleaning, analysis, and visualization of tax receipts
     cd Tax-Receipts-Data-Analysis
     ```
 
-2. Install the required Python dependencies:
+2. Set up your Python environment and install any necessary libraries (based on the notebook’s usage).
+
+3. Open and run the Jupyter notebook named **Data Science Project.ipynb** to explore the data analysis:
     ```bash
-    pip install -r requirements.txt
+    jupyter notebook "Data Science Project.ipynb"
     ```
 
-3. Open and run the Jupyter notebooks to explore the data analysis:
-    ```bash
-    jupyter notebook
-    ```
+4. Open the Power BI report file named **Power BI Report.pbix** to view the interactive dashboard.
 
-4. Open the Power BI `.pbix` file (found in the repository) to view the interactive dashboard.
 
 ## 📧 Contact
 
